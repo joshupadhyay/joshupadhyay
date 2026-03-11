@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey, I'm Josh! 👋
 
-<!--
-**joshupadhyay/joshupadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Spent 4.5 years at 3M as a cloud engineer. I primarily worked with AWS resources, deploying infrastructure via CDK and Github Actions. I used Docker, I containerized, and spent too much time in the AWS console. :) 
 
-Here are some ideas to get you started:
+I'm interested in model training and inference, containerization, data analysis. I'd love to expore Adtech sometime too. :) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[my website](https://www.joshupadhyay.xyz/)
+
+### Recent Works
+
+[Impromptu Speaking – Extemp](https://extemp.joshupadhyay.xyz/)
+
+[SuperSplat - Gaussian Splat of St. Mark's Place](https://supersplat-cyan.vercel.app/)
+
+[SuperSplat PoC with Modal](https://supersplat-cyan.vercel.app/)
+
+since at Fractal Tech I've built a rhythm game, a restaurant reccomendation web app, and tictactoe.... see them on my profile!
+
+
+
+
