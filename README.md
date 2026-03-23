@@ -18,7 +18,7 @@ I'd like to talk to clients, build infrastructure, and see immediate impact of m
 
 **[Fine-tuning Stable Diffusion](https://www.joshupadhyay.xyz/blog/serving-a-fine-tuned-image-model)** – Fine-tuned SDXL on Edward Hopper's painting style. Covers the full pipeline: training, cold-start optimization, and serving a custom image model from Huggingface. Explores caching, GPU snapshots, and other optimization techniques. 
 
-**[NYC Gaussian](https://supersplat-cyan.vercel.app/)** – 3D reconstruction of St. Mark's Place using gaussian splatting algorithms on Modal GPUs. Converts Street View imagery into an explorable 3D scene in the browser.
+**[NYC Gaussian](https://supersplat-cyan.vercel.app/)** – 3D reconstruction of St. Mark's Place using gaussian splatting algorithms on Modal GPUs. Converts Street View imagery into an explorable 3D scene in the browser. I generated my own Gaussians with AnySplat, and the [PoC is available here.](https://supersplat-poc.vercel.app/)
 
 **[The Crunch](https://github.com/joshupadhyay/the-crunch)** – AI-powered night-out planner for NYC. Claude tool calling + Mapbox for real-time venue recommendations, deployed on AWS EC2 with CI/CD via GitHub Actions.
 
