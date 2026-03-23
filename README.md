@@ -2,9 +2,9 @@
 
 Cloud infrastructure engineer with 4 years of AWS experience, now building AI-native products at Fractal Tech in NYC.
 
-At 3M I built internal platforms for R&D, led migrations of fluid modelling applications from on-prem servers to AWS Batch, supporting programs that generate $300M+ product portfolios. I worked with scientists and software engineers alike, turning material science requests into technical implementation
+At 3M I built internal platforms for R&D, led migrations of fluid modelling applications from on-prem servers to AWS Batch, supporting programs that generate $300M+ product portfolios. I worked with scientists and software engineers alike, turning material science requests into technical implementation.
 
-Now I'm at Fractal Tech, an AI accelerator!
+Now I'm at Fractal Tech, an AI accelerator, building GPU pipelines on Modal, shipping full-stack AI apps with Claude's API, and writing publicly about inference infrastructure.
 
 I'd like to talk to clients, build infrastructure, and see immediate impact of my work. I'm targeting **forward-deployed and solutions engineering roles** at infra companies, where client sense and technical ability intersect.
 
@@ -12,17 +12,17 @@ I'd like to talk to clients, build infrastructure, and see immediate impact of m
 
 ## My Projects
 
-**[Extemp](https://extemp.joshupadhyay.xyz/)** – Impromptu Speaking assistant. Practice speaking under pressure, get feedback and frameworks to help you over time! Made with Groq + Next.js + ReactRouter, with OpenRouter for transcription analysis.
+**[Extemp](https://extemp.joshupadhyay.xyz/)** – Impromptu speaking coach. Record a 2-minute speech, get structured feedback on clarity, filler words, and delivery. Built with Groq (Whisper transcription) + Next.js.
 
-**[What's the Busiest Citibike Station?](https://joshupad--citibike-web-serve.modal.run/)** - Testing Modal's `map()` function. 20 GB Citibike dataset processed in 137s via parallel fan-out. (5x speedup).
+**[What's the Busiest Citibike Station?](https://joshupad--citibike-web-serve.modal.run/)** – 20 GB NYC Citibike dataset processed in 137s using Modal's parallel fan-out. An exploration of serverless GPU compute for large-scale data work, and how easy it is with Modal's functionality. Deployed using `modal serve`. 
 
-**[Fine-tuning Stable Diffusion](https://www.joshupadhyay.xyz/blog/serving-a-fine-tuned-image-model)** – Fine-tuning SDXL in Edward Hopper's style. Notes on Model optimization, for cold start and inference.
+**[Fine-tuning Stable Diffusion](https://www.joshupadhyay.xyz/blog/serving-a-fine-tuned-image-model)** – Fine-tuned SDXL on Edward Hopper's painting style. Covers the full pipeline: training, cold-start optimization, and serving a custom image model from Huggingface. Explores caching, GPU snapshots, and other optimization techniques. 
 
-**[NYC Gaussian](https://supersplat-cyan.vercel.app/)**. Used WorldLab's Marble API to reconstruct St. Mark's Place. Used Modal to use Gaussian splat algorithms on Streetview images, [available here](https://supersplat-cyan.vercel.app/). Writeup on the way. 
+**[NYC Gaussian](https://supersplat-cyan.vercel.app/)** – 3D reconstruction of St. Mark's Place using gaussian splatting algorithms on Modal GPUs. Converts Street View imagery into an explorable 3D scene in the browser.
 
-**[The Crunch](https://github.com/joshupadhyay/the-crunch)** — AI night-out planner using Claude tool calling, Mapbox, and Better Auth. Deployed on AWS EC2 via GitHub Actions. This was to demonstrate streaming with the Claude SDK, and tool usage.
+**[The Crunch](https://github.com/joshupadhyay/the-crunch)** – AI-powered night-out planner for NYC. Claude tool calling + Mapbox for real-time venue recommendations, deployed on AWS EC2 with CI/CD via GitHub Actions.
 
-WIP - Databricks' KARL-inspired Interior Bot. Fine-tuned Qwen 2.5 7B on interior design using expert trajectory distillation from Claude. ReAct agent + ChromaDB vector search. Aimed to beat frontier models on domain tasks at 10x lower cost.
+**Interior Bot** *(in progress)* – Fine-tuning Qwen 2.5 7B on interior design using expert trajectories distilled from Claude. A ReAct agent + ChromaDB vector search, inspired by Databricks' KARL paper — small model, domain-specific retrieval, frontier-model quality at a fraction of the cost.
 
 ---
 
