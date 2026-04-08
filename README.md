@@ -1,8 +1,8 @@
 # Josh Upadhyay
 
-Cloud infrastructure engineer with 4 years of AWS experience, now building AI-native products at Fractal Tech in NYC.
+Cloud engineer with 4 years of AWS experience, now building with AI at Fractal Tech in NYC.
 
-At 3M I built internal platforms for R&D, led migrations of fluid modelling applications from on-prem servers to AWS Batch, supporting programs that generate $300M+ product portfolios. I worked with scientists and software engineers alike, turning material science requests into technical implementation.
+At 3M I built internal platforms for R&D, led migrations of fluid modelling applications to AWS Batch. I worked with scientists and software engineers to turn issues into software solutions!
 
 Now I'm at Fractal Tech, an AI accelerator, building GPU pipelines on Modal, shipping full-stack AI apps with Claude's API, and writing publicly about inference infrastructure.
 
