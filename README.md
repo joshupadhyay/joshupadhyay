@@ -2,11 +2,9 @@
 
 Cloud engineer with 4 years of AWS experience, now building with AI at Fractal Tech in NYC.
 
-At 3M I built internal platforms for R&D, led migrations of fluid modelling applications to AWS Batch. I worked with scientists and software engineers to turn issues into software solutions!
+At 3M I built platforms for R&D, led migrations of fluid modelling applications to AWS Batch. Some fullstack work as well...
 
-Now I'm at Fractal Tech, an AI accelerator, building GPU pipelines on Modal, shipping full-stack AI apps with Claude's API, and writing publicly about inference infrastructure.
-
-I'd like to talk to clients, build infrastructure, and see immediate impact of my work. I'm targeting **forward-deployed and solutions engineering roles** at infra companies, where client sense and technical ability intersect.
+Check it out at [joshupadhyay](https://www.joshupadhyay.xyz/)
 
 ---
 
