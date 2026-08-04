@@ -1,7 +1,5 @@
 # Josh Upadhyay
 
-Cloud engineer with 4 years of AWS experience, now building with AI at Fractal Tech in NYC.
-
 At 3M I built platforms for R&D, led migrations of fluid modelling applications to AWS Batch. Some fullstack work as well...
 
 Check it out at [joshupadhyay](https://www.joshupadhyay.xyz/)
